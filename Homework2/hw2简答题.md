@@ -78,8 +78,10 @@
 
 ### 写一个程序实现完整的太阳系。其它星球围绕太阳旋转的速度必须不一样，且不在同一个法平面上。 ###
 
+游戏对象如下：
+![Solar](../Unity3d-pics/Solar.png)
 
-
+代码如下：
 >>>
 
     public class Solar : MonoBehaviour {
@@ -124,6 +126,8 @@
 
       }
     }
-
+    
+运行结果如下：
+![rotate](../Unity3d-pics/rotate.png)
 
 
