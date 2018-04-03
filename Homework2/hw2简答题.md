@@ -147,10 +147,10 @@
  |恶魔下船|船上有恶魔                            |
 
 实验预设：
-![prefebs](../Unity3d-pics/prefebs)
+![prefebs](../Unity3d-pics/prefebs.png)
 
-
-
+运行结果：
+![running](../Unity3d-pics/result.png)
 
 
 
